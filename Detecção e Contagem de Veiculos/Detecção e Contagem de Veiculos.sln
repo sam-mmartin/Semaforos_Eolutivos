@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.15
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Detecção e Contagem de Veiculos", "Detecção e Contagem de Veiculos\Detecção e Contagem de Veiculos.pyproj", "{FD26CC60-7C80-43DF-B11F-78EFD539955B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FD26CC60-7C80-43DF-B11F-78EFD539955B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD26CC60-7C80-43DF-B11F-78EFD539955B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {98CB702B-701B-484A-9E82-E898E099619D}
+	EndGlobalSection
+EndGlobal
